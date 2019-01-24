@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common-service/common-service.iml" filepath="$PROJECT_DIR$/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common-spring-boot-starter/common-spring-boot-starter.iml" filepath="$PROJECT_DIR$/common-spring-boot-starter/common-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-starter-demo.iml" filepath="$PROJECT_DIR$/spring-boot-starter-demo.iml" />
+    </modules>
+  </component>
+</project>

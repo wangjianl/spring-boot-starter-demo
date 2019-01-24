@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.soft.CommonProperties",
+      "name": "common.properties",
+      "type": "com.soft.CommonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.soft.CommonProperties",
+      "name": "common.properties.id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.soft.CommonProperties",
+      "name": "common.properties.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
